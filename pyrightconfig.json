@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    ".",
+    "backend",
+    "C:\\Users\\pc\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages"
+  ],
+  "pythonVersion": "3.14",
+  "pythonPlatform": "Windows"
+}

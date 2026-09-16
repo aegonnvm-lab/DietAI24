@@ -1,0 +1,143 @@
+food_id,food_name,aliases,category,calories_100g,protein_100g,carbs_100g,fat_100g,fiber_100g,default_portion_g,source,notes
+IF001,Steamed White Rice,"chawal,white rice,plain rice,boiled rice",Rice Dishes,130.0,2.7,28.2,0.3,0.4,150.0,IFCT 2017 / ICMR-NIN,Cooked plain white rice
+IF002,Chicken Biryani,"biryani,biriyani,chicken biriyani,hyderabadi biryani",Rice Dishes,180.0,9.5,22.0,6.2,1.2,250.0,IFCT 2017 / ICMR-NIN,Fragrant basmati rice layered with spiced marinated chicken
+IF003,Vegetable Biryani,"veg biryani,veg pulao,vegetable pulao,sabzi pulao",Rice Dishes,145.0,3.8,24.5,3.8,2.2,200.0,IFCT 2017 / ICMR-NIN,Rice cooked with mixed vegetables and whole spices
+IF004,Jeera Rice,"cumin rice,zeera rice",Rice Dishes,165.0,2.9,29.5,4.0,0.8,150.0,IFCT 2017 / ICMR-NIN,Basmati rice tempered with cumin seeds and ghee
+IF005,Roti,"chapati,phulka,fulka,wheat roti,tawa roti",Breads,297.0,9.2,55.8,3.7,10.7,35.0,IFCT 2017 / ICMR-NIN,Whole wheat flatbread cooked without oil on a tawa
+IF006,Plain Paratha,"tawa paratha,paratha,parauntha",Breads,326.0,7.5,48.0,11.5,6.8,60.0,IFCT 2017 / ICMR-NIN,Layered whole wheat flatbread cooked with ghee or oil
+IF007,Aloo Paratha,"potato paratha,alu paratha,aaloo paratha",Breads,240.0,5.4,36.0,8.5,4.2,110.0,IFCT 2017 / ICMR-NIN,Stuffed spiced potato whole wheat flatbread
+IF008,Butter Naan,"naan,nan,tandoori naan",Breads,310.0,8.0,49.0,9.5,2.5,90.0,IFCT 2017 / ICMR-NIN,Tandoor baked refined flour bread brushed with butter
+IF009,Poori,"puri,fried bread",Breads,380.0,7.0,47.0,18.5,3.8,30.0,IFCT 2017 / ICMR-NIN,Deep-fried puffed unleavened whole wheat bread
+IF010,Bhature,"bhatura,chole bhature bread",Breads,360.0,6.8,46.0,16.8,1.8,80.0,IFCT 2017 / ICMR-NIN,Fluffy deep-fried leavened sourdough bread
+IF011,Pav,"pav bun,bread bun,ladi pav",Breads,270.0,8.0,54.0,2.2,2.0,40.0,IFCT 2017 / ICMR-NIN,Indian style soft white bread bun
+IF012,Yellow Dal Tadka,"dal tadka,dal fry,toor dal,arhar dal",Dals and Lentils,105.0,5.8,13.5,3.2,3.0,150.0,IFCT 2017 / ICMR-NIN,Yellow toor dal cooked and tempered with cumin and garlic
+IF013,Dal Makhani,"maa ki dal,black dal,urad dal curry",Dals and Lentils,165.0,6.2,15.0,9.0,4.5,150.0,IFCT 2017 / ICMR-NIN,Slow cooked black lentils and kidney beans with butter and cream
+IF014,Rajma Masala,"rajma,kidney beans curry,rajma chawal",Dals and Lentils,125.0,6.8,17.5,3.4,5.2,150.0,IFCT 2017 / ICMR-NIN,Red kidney beans simmered in a spiced onion-tomato gravy
+IF015,Chole,"chana masala,chickpea curry,chole masala,kabuli chana",Curries,155.0,7.2,21.0,4.8,6.0,150.0,IFCT 2017 / ICMR-NIN,Chickpeas cooked in a tangy robust spiced onion-tomato gravy
+IF016,Paneer Butter Masala,"paneer makhani,butter paneer,paneer gravy",Curries,225.0,8.5,9.5,17.5,1.8,150.0,IFCT 2017 / ICMR-NIN,Cottage cheese cubes in a rich buttery tomato cream gravy
+IF017,Palak Paneer,"spinach paneer,saag paneer",Curries,145.0,8.2,5.4,10.5,3.0,150.0,IFCT 2017 / ICMR-NIN,Paneer cubes in a spiced puree of fresh spinach greens
+IF018,Butter Chicken,"murgh makhani,chicken makhani",Curries,210.0,13.5,6.5,14.5,1.2,150.0,IFCT 2017 / ICMR-NIN,Tender chicken in a mild spiced tomato butter and cream sauce
+IF019,Aloo Gobi,"potato cauliflower,gobi aloo",Curries,110.0,2.8,15.2,4.5,3.5,140.0,IFCT 2017 / ICMR-NIN,Dry curry of potatoes and cauliflower with turmeric and spices
+IF020,Bhindi Masala,"okra masala,lady finger,bhindi fry",Curries,98.0,2.4,10.5,5.2,4.1,130.0,IFCT 2017 / ICMR-NIN,Spiced stir-fried okra with onions and tomatoes
+IF021,Egg Curry,"anda curry,egg masala,anda masala",Curries,135.0,9.2,4.5,9.0,1.0,180.0,IFCT 2017 / ICMR-NIN,Hard-boiled eggs simmered in spicy onion-tomato gravy
+IF022,Chicken Curry,"chicken gravy,murg curry",Curries,195.0,15.0,5.5,12.8,1.5,180.0,IFCT 2017 / ICMR-NIN,Bone-in chicken pieces cooked in onion-tomato spiced gravy
+IF023,Mutton Curry,"goat curry,lamb curry,mutton masala",Curries,240.0,16.5,4.8,17.2,1.0,180.0,IFCT 2017 / ICMR-NIN,Slow-cooked goat or lamb in a rich spiced gravy
+IF024,Fish Curry,"machli curry,fish masala",Curries,155.0,14.5,5.0,8.5,0.8,180.0,IFCT 2017 / ICMR-NIN,Fish pieces simmered in a spiced coconut or tomato gravy
+IF025,Mixed Vegetable Curry,"sabzi,mix veg,mixed veg gravy",Curries,85.0,2.5,10.0,3.8,3.0,150.0,IFCT 2017 / ICMR-NIN,Assorted vegetables cooked in a light spiced gravy
+IF026,Idli,"steamed idli,rice cake",South Indian,132.0,3.9,27.5,0.6,1.8,50.0,IFCT 2017 / ICMR-NIN,Steamed savory fermented rice and black lentil cakes
+IF027,Plain Dosa,"sada dosa,crispy dosa",South Indian,168.0,4.2,31.0,3.0,1.5,100.0,IFCT 2017 / ICMR-NIN,Crisp fermented rice and lentil crepe
+IF028,Masala Dosa,"potato dosa,stuffed dosa",South Indian,185.0,4.5,30.5,5.2,2.4,180.0,IFCT 2017 / ICMR-NIN,Crispy dosa folded around spiced mashed potato filling
+IF029,Medu Vada,"vada,urad vada,vadai",South Indian,290.0,8.5,34.0,13.5,4.0,50.0,IFCT 2017 / ICMR-NIN,Crispy deep-fried savory doughnut from urad dal batter
+IF030,Sambar,"sambhar,lentil stew",South Indian,65.0,2.8,9.8,1.6,2.2,150.0,IFCT 2017 / ICMR-NIN,Lentil stew with tamarind vegetables and aromatic sambar powder
+IF031,Coconut Chutney,"nariyal chutney,coconut dip",South Indian,210.0,2.9,8.5,19.0,4.5,30.0,IFCT 2017 / ICMR-NIN,Ground fresh coconut tempered with mustard and curry leaves
+IF032,Uttapam,"uthappam,thick dosa,vegetable uttapam",South Indian,175.0,4.0,28.0,4.5,2.0,120.0,IFCT 2017 / ICMR-NIN,Thick fermented rice pancake topped with onions and vegetables
+IF033,Poha,"flattened rice,chivda poha,beaten rice",Breakfast,160.0,3.2,27.5,4.2,2.0,150.0,IFCT 2017 / ICMR-NIN,Flattened rice tempered with mustard turmeric and peanuts
+IF034,Rava Upma,"suji upma,semolina upma",Breakfast,155.0,3.8,24.0,4.8,1.6,150.0,IFCT 2017 / ICMR-NIN,Roasted semolina porridge tempered with spices and vegetables
+IF035,Samosa,"aloo samosa,potato samosa",Snacks,310.0,5.2,35.0,16.5,2.5,85.0,IFCT 2017 / ICMR-NIN,Crispy fried pastry cone stuffed with spiced potatoes and peas
+IF036,Pav Bhaji,"bhaji,pav bhaji bhaji",Snacks,130.0,2.8,16.5,6.0,3.5,200.0,IFCT 2017 / ICMR-NIN,Spiced mashed vegetable curry cooked with butter
+IF037,Pakora,"bhajiya,pakoda,onion pakora",Snacks,275.0,5.5,28.0,15.8,3.2,60.0,IFCT 2017 / ICMR-NIN,Deep-fried gram flour fritters with onions or vegetables
+IF038,Aloo Tikki,"potato cutlet,tikki",Snacks,220.0,3.8,30.0,9.5,2.8,80.0,IFCT 2017 / ICMR-NIN,Spiced mashed potato patties shallow-fried until crispy
+IF039,Plain Curd,"dahi,yogurt,homemade curd",Dairy,60.0,3.5,4.5,3.2,0.0,150.0,IFCT 2017 / ICMR-NIN,Traditional homemade Indian whole milk yogurt
+IF040,Raita,"cucumber raita,boondi raita",Dairy,55.0,2.8,5.0,2.5,0.3,100.0,IFCT 2017 / ICMR-NIN,Seasoned yogurt with cucumber or boondi
+IF041,Paneer Raw,"cottage cheese,fresh paneer",Dairy,265.0,18.3,3.4,20.8,0.0,60.0,IFCT 2017 / ICMR-NIN,Unsalted whole milk fresh cottage cheese
+IF042,Lassi Sweet,"meethi lassi,sweet yogurt drink",Beverages,110.0,3.1,16.0,3.6,0.0,250.0,IFCT 2017 / ICMR-NIN,Churned yogurt beverage sweetened with sugar and cardamom
+IF043,Masala Chai,"chai,tea,indian tea",Beverages,65.0,2.2,9.5,2.0,0.1,150.0,IFCT 2017 / ICMR-NIN,Brewed black tea with spices milk and sugar
+IF044,Chaas,"buttermilk,mattha,spiced buttermilk",Beverages,25.0,1.5,2.2,1.0,0.2,250.0,IFCT 2017 / ICMR-NIN,Diluted savory yogurt seasoned with cumin salt and mint
+IF045,Gulab Jamun,"gulaab jamun,milk dumpling",Sweets,340.0,4.8,56.0,11.2,0.5,45.0,IFCT 2017 / ICMR-NIN,Deep-fried milk-solid dumplings soaked in scented sugar syrup
+IF046,Rasgulla,"rosogolla,cheese ball sweet",Sweets,186.0,4.2,38.5,1.8,0.2,45.0,IFCT 2017 / ICMR-NIN,Soft cottage cheese dumplings simmered in light sugar syrup
+IF047,Jalebi,"jilapi,funnel cake sweet",Sweets,350.0,2.5,60.0,12.0,0.3,50.0,IFCT 2017 / ICMR-NIN,Spiraled deep-fried batter soaked in saffron sugar syrup
+IF048,Kheer,"rice kheer,payasam,rice pudding",Sweets,145.0,3.5,22.0,4.8,0.3,120.0,IFCT 2017 / ICMR-NIN,Sweetened milk rice pudding flavored with cardamom and nuts
+IF049,Green Salad,"kachumber,onion salad,salad",Vegetables,25.0,1.2,4.5,0.3,1.5,80.0,IFCT 2017 / ICMR-NIN,Fresh chopped onion cucumber tomato salad
+IF050,Pickle,"achar,mango pickle,mixed pickle",Condiments,185.0,1.5,8.0,16.5,2.0,10.0,IFCT 2017 / ICMR-NIN,Spiced oil-based Indian pickle
+IF051,Brown Rice,"brown chawal,unpolished rice,whole grain rice",Rice Dishes,121.8,2.7,25.5,1.0,1.8,150.0,IFCT 2017 / ICMR-NIN,Cooked whole grain brown rice
+IF052,Curd Rice,"thayir sadam,dahi chawal,daddojanam,yogurt rice",Rice Dishes,139.2,3.8,20.2,4.8,0.6,200.0,IFCT 2017 / ICMR-NIN,Soft cooked rice blended with fresh curd and mustard tempering
+IF053,Lemon Rice,"chitranna,elumpichai sadam,nimbu chawal",Rice Dishes,168.0,2.8,27.5,5.2,1.1,180.0,IFCT 2017 / ICMR-NIN,"Rice tempered with turmeric, peanuts, curry leaves and fresh lemon juice"
+IF054,Khichdi,"moong dal khichdi,dal khichadi,khichri",Rice Dishes,119.7,4.2,21.0,2.1,2.5,200.0,IFCT 2017 / ICMR-NIN,Comforting porridge of rice and yellow moong dal cooked with ghee and cumin
+IF055,Ven Pongal,"ghee pongal,khara pongal,hot pongal",Rice Dishes,175.2,4.5,24.0,6.8,2.0,180.0,IFCT 2017 / ICMR-NIN,"South Indian savory rice and moong dal porridge tempered with black pepper, cumin, ginger, and cashews in ghee"
+IF056,Bisi Bele Bath,"bisi bele huliyanna,spiced lentil rice",Rice Dishes,154.0,4.2,23.5,4.8,3.0,200.0,IFCT 2017 / ICMR-NIN,Karnataka traditional spicy rice and toor dal stew with mixed vegetables and tamarind
+IF057,Matar Pulao,"peas pulao,mutter pulao,green peas rice",Rice Dishes,148.8,3.5,26.5,3.2,2.2,180.0,IFCT 2017 / ICMR-NIN,Fragrant basmati rice gently cooked with sweet green peas and mild whole spices
+IF058,Kashmiri Pulao,"sweet pulao,dry fruit pulao",Rice Dishes,195.4,3.8,32.0,5.8,2.0,180.0,IFCT 2017 / ICMR-NIN,"Aromatic basmati rice cooked with saffron, mixed fruits, nuts, and fried onions"
+IF059,Paneer Pulao,"cottage cheese rice,paneer rice",Rice Dishes,186.0,6.8,23.5,7.2,1.8,200.0,IFCT 2017 / ICMR-NIN,Basmati rice tossed with spiced paneer cubes and fragrant herbs
+IF060,Garlic Naan,"lasooni naan,garlic butter naan",Breads,320.8,8.2,49.5,10.0,2.5,90.0,IFCT 2017 / ICMR-NIN,Tandoor baked refined flatbread infused with minced garlic and brushed with coriander butter
+IF061,Paneer Paratha,"cottage cheese paratha,paneer stuffed bread",Breads,271.0,9.5,33.5,11.0,3.8,120.0,IFCT 2017 / ICMR-NIN,Whole wheat flatbread stuffed with spiced crumbled paneer and herbs
+IF062,Gobi Paratha,"cauliflower paratha,patta gobi paratha",Breads,231.0,5.2,35.0,7.8,4.5,110.0,IFCT 2017 / ICMR-NIN,Whole wheat flatbread stuffed with spiced grated cauliflower
+IF063,Onion Kulcha,"pyaz kulcha,amritsari kulcha",Breads,285.2,6.8,46.5,8.0,2.8,100.0,IFCT 2017 / ICMR-NIN,Leavened flatbread stuffed with spiced finely chopped onions and baked in a tandoor
+IF064,Missi Roti,"besan roti,chana flour bread",Breads,284.8,11.5,48.0,5.2,6.5,50.0,IFCT 2017 / ICMR-NIN,Rustic flatbread made from a blend of chickpea flour and whole wheat flour with ajwain
+IF065,Thepla,"methi thepla,gujarati thepla",Breads,310.0,7.8,44.5,11.2,5.2,40.0,IFCT 2017 / ICMR-NIN,Traditional Gujarati spiced flatbread with fresh fenugreek leaves and yogurt
+IF066,Rava Dosa,"suji dosa,crispy semolina crepe",South Indian,191.0,4.2,30.5,5.8,1.4,120.0,IFCT 2017 / ICMR-NIN,"Net-textured crisp crepe made from semolina, rice flour, cumin and crushed black pepper"
+IF067,Onion Rava Dosa,"pyaz rava dosa,onion semolina dosa",South Indian,195.6,4.4,31.0,6.0,1.8,140.0,IFCT 2017 / ICMR-NIN,Crispy rava dosa studded with finely chopped roasted onions
+IF068,Set Dosa,"sponge dosa,soft dosa",South Indian,153.8,4.0,29.5,2.2,1.8,100.0,IFCT 2017 / ICMR-NIN,"Pancake-thick, ultra-soft spongy dosas served in sets of two or three"
+IF069,Appam,"palappam,kallappam,hopper",South Indian,134.0,2.5,26.5,2.0,1.2,80.0,IFCT 2017 / ICMR-NIN,Bowl-shaped soft fermented rice and coconut milk pancake with a fluffy spongy center
+IF070,Puttu,"steamed puttu,rice puttu",South Indian,162.3,3.2,34.0,1.5,2.2,100.0,IFCT 2017 / ICMR-NIN,Steamed cylinders of ground rice layered with freshly grated coconut
+IF071,Rasam,"tomato rasam,pepper rasam,saaru",South Indian,45.0,1.5,7.5,1.0,1.2,150.0,IFCT 2017 / ICMR-NIN,"Traditional South Indian thin tamarind soup with tomatoes, cumin, and crushed black pepper"
+IF072,Tomato Chutney,"thakkali chutney,tamatar chutney",South Indian,114.8,2.0,10.5,7.2,2.2,30.0,IFCT 2017 / ICMR-NIN,"Spicy South Indian dip made from sauteed ripe tomatoes, red chilies, and tempered spices"
+IF073,Mint Chutney,"pudina chutney,green chutney,hari chutney",Condiments,65.0,2.5,7.0,3.0,2.8,30.0,IFCT 2017 / ICMR-NIN,"Zesty vibrant dip blended from fresh mint, coriander, lemon juice and green chilies"
+IF074,Tamarind Chutney,"saunth chutney,meethi chutney,imli chutney",Condiments,188.4,1.2,45.0,0.4,1.5,30.0,IFCT 2017 / ICMR-NIN,"Sweet and tangy dipping sauce simmered from tamarind pulp, jaggery, and dried ginger"
+IF075,Moong Dal Tadka,"yellow moong dal,peeli dal,split moong",Dals and Lentils,94.8,6.2,13.0,2.0,3.2,150.0,IFCT 2017 / ICMR-NIN,"Light and easily digestible yellow split moong lentils tempered with cumin, turmeric, and ghee"
+IF076,Chana Dal Fry,"bengal gram curry,chana dal tadka",Dals and Lentils,129.5,7.5,17.0,3.5,5.0,150.0,IFCT 2017 / ICMR-NIN,"Nutty Bengal gram lentils simmered with chopped tomatoes, ginger, and aromatic garam masala"
+IF077,Masoor Dal,"red lentil curry,sabut masoor,kali dal",Dals and Lentils,110.4,6.8,14.5,2.8,4.0,150.0,IFCT 2017 / ICMR-NIN,Hearty red or brown whole lentils simmered in onion-tomato gravy with Indian spices
+IF078,Kadhi Pakora,"punjabi kadhi,dahi kadhi,besan kadhi",Curries,125.2,4.5,11.5,6.8,1.5,180.0,IFCT 2017 / ICMR-NIN,Tangy yogurt and gram flour gravy simmered with crisp fried onion pakoras
+IF079,Kadai Paneer,"karahi paneer,bell pepper paneer",Curries,214.8,9.2,8.5,16.0,2.2,160.0,IFCT 2017 / ICMR-NIN,"Cottage cheese cubes wok-tossed with bell peppers, onions, and freshly crushed coriander and red chilies"
+IF080,Shahi Paneer,"royal paneer,mughlai paneer",Curries,234.0,8.0,10.0,18.0,1.5,160.0,IFCT 2017 / ICMR-NIN,Paneer cubes bathed in a luxurious creamy gravy enriched with cashew paste and saffron
+IF081,Matar Paneer,"mutter paneer,peas and paneer",Curries,176.2,7.8,11.5,11.0,2.8,160.0,IFCT 2017 / ICMR-NIN,Classic pairing of tender green peas and soft paneer simmered in an onion-tomato sauce
+IF082,Paneer Bhurji,"scrambled paneer,spiced scrambled cottage cheese",Curries,210.3,12.5,5.2,15.5,1.2,140.0,IFCT 2017 / ICMR-NIN,"Crumbled fresh paneer sauteed with onions, tomatoes, green chilies, and turmeric"
+IF083,Dum Aloo,"kashmiri dum aloo,baby potato curry",Curries,146.4,2.8,18.5,6.8,3.2,160.0,IFCT 2017 / ICMR-NIN,Baby potatoes pricked and slow-cooked in a spiced fennel and dry ginger yogurt gravy
+IF084,Aloo Matar,"potato peas curry,aloo mutter",Curries,114.8,3.2,16.5,4.0,3.4,150.0,IFCT 2017 / ICMR-NIN,Homestyle curry of soft diced potatoes and sweet green peas in a tomato broth
+IF085,Baingan Bharta,"roasted eggplant mash,mashed brinjal",Curries,93.6,2.2,9.5,5.2,4.5,150.0,IFCT 2017 / ICMR-NIN,"Smoky fire-roasted mashed eggplant sauteed with generous garlic, onions, tomatoes and peas"
+IF086,Baingan Masala,"eggplant curry,brinjal curry,gutthi vankaya",Curries,109.2,2.0,10.0,6.8,3.8,150.0,IFCT 2017 / ICMR-NIN,"Tender eggplants cooked in a rich ground peanut, sesame, and tamarind spiced gravy"
+IF087,Lauki Ki Sabzi,"bottle gourd curry,ghiya sabzi,doodhi",Curries,64.8,1.5,7.5,3.2,2.5,150.0,IFCT 2017 / ICMR-NIN,Simple and light bottle gourd simmered with cumin seeds and mild spices
+IF088,Cabbage Poriyal,"patta gobi poriyal,cabbage thoran,cabbage stir fry",Vegetables,70.2,2.1,7.8,3.4,3.2,120.0,IFCT 2017 / ICMR-NIN,"South Indian style shredded cabbage stir-fried with mustard seeds, lentils, curry leaves, and fresh grated coconut"
+IF089,Bhindi Fry,"crispy okra,kurkuri bhindi",Curries,153.6,3.2,14.5,9.2,5.0,100.0,IFCT 2017 / ICMR-NIN,Crisp-fried spiced okra strips tossed with amchur dry mango powder and chaat masala
+IF090,Soya Chunks Curry,"mealmaker curry,soybean curry",Curries,135.2,13.5,9.5,4.8,4.2,160.0,IFCT 2017 / ICMR-NIN,High-protein textured soy nuggets cooked in a rich onion-tomato and whole spice gravy
+IF091,Kala Chana Curry,"black chickpea curry,kadala curry",Dals and Lentils,145.2,7.8,19.5,4.0,6.5,160.0,IFCT 2017 / ICMR-NIN,Kerala or North Indian style brown chickpeas simmered with roasted coconut and warming spices
+IF092,Chicken Tikka Masala,"tikka masala,tandoori chicken gravy",Curries,204.8,14.5,7.0,13.2,1.2,180.0,IFCT 2017 / ICMR-NIN,Smoky roasted marinated chicken chunks folded into a spiced creamy tomato gravy
+IF093,Tandoori Chicken,"grilled tandoori chicken,tandoori murgh",Curries,182.8,22.5,2.5,9.2,0.5,150.0,IFCT 2017 / ICMR-NIN,"Skinless chicken marinated in thick spiced yogurt and mustard oil, charred in a clay oven"
+IF094,Chicken Korma,"shahi korma,white chicken korma",Curries,214.8,13.5,6.0,15.2,1.0,180.0,IFCT 2017 / ICMR-NIN,"Braised chicken simmered in an indulgent gravy thickened with yogurt, almonds, and poppy seeds"
+IF095,Chicken Chettinad,"chettinad chicken,spicy chettinad",Curries,188.0,15.5,4.5,12.0,1.4,180.0,IFCT 2017 / ICMR-NIN,"Fiery Tamilian curry cooked with freshly ground kalpasi, star anise, black pepper and coconut"
+IF096,Mutton Rogan Josh,"rogan josh,kashmiri mutton",Curries,233.0,16.0,4.0,17.0,0.8,180.0,IFCT 2017 / ICMR-NIN,Signature aromatic Kashmiri red meat dish colored with ratan jot and scented with dried ginger and fennel
+IF097,Fish Fry,"tawa fish fry,masala fish fry,surmai fry",Curries,189.2,18.0,5.0,10.8,0.5,120.0,IFCT 2017 / ICMR-NIN,"Fresh fish steaks coated in semolina and chili-turmeric paste, pan-fried crisp"
+IF098,Prawn Curry,"shrimp curry,jhinga curry,chemmeen curry",Curries,144.2,14.0,4.5,7.8,0.6,160.0,IFCT 2017 / ICMR-NIN,Juicy prawns simmered in a spiced coconut milk and kokum gravy
+IF099,Egg Bhurji,"spiced scrambled eggs,anda bhurji",Curries,163.8,11.2,3.2,11.8,0.5,120.0,IFCT 2017 / ICMR-NIN,"Indian-style scrambled eggs tossed with chopped onions, tomatoes, and green chilies"
+IF100,Vada Pav,"bombay burger,batata vada pav",Snacks,281.8,5.5,42.0,10.2,3.0,120.0,IFCT 2017 / ICMR-NIN,Deep-fried spiced potato ball tucked inside a sliced pav bun with fiery garlic chutney
+IF101,Pani Puri,"golgappa,puchka,gupchup",Snacks,148.5,3.0,28.5,2.5,2.0,150.0,IFCT 2017 / ICMR-NIN,"Crisp hollow fried semolina balls stuffed with potatoes, chickpeas, and filled with spicy mint water"
+IF102,Bhel Puri,"bombay bhel,puffed rice chaat",Snacks,185.8,4.0,33.0,4.2,3.2,120.0,IFCT 2017 / ICMR-NIN,"Tangy and crunchy chaat of puffed rice, sev, onions, tomatoes and sweet tamarind chutney"
+IF103,Sev Puri,"sev batata puri,sev papdi",Snacks,229.3,4.2,34.0,8.5,2.5,100.0,IFCT 2017 / ICMR-NIN,"Flat crisp puris topped with diced potatoes, onions, spicy chutneys, and smothered with crisp chickpea noodles"
+IF104,Dahi Vada,"dahi bhalla,dahi vadai",Snacks,163.8,6.0,21.0,6.2,1.8,150.0,IFCT 2017 / ICMR-NIN,Soft lentil fritters soaked in sweet spiced whipped yogurt and garnished with cumin and chutneys
+IF105,Dhokla,"khaman dhokla,steamed dhokla",Snacks,149.8,6.2,24.5,3.0,2.8,100.0,IFCT 2017 / ICMR-NIN,Steamed fermented gram flour spongy savory cakes tempered with mustard seeds and curry leaves
+IF106,Khandvi,"patuli,gram flour roll",Snacks,161.2,5.5,19.5,6.8,2.2,80.0,IFCT 2017 / ICMR-NIN,Delicate tightly rolled ribbons of cooked besan and buttermilk tempered with mustard seeds and coconut
+IF107,Onion Pakora,"kanda bhaji,pyaz pakoda,onion fritters",Snacks,294.4,5.8,30.0,16.8,3.5,80.0,IFCT 2017 / ICMR-NIN,Irregularly shaped crispy chickpea-flour fritters packed with sliced onions and carom seeds
+IF108,Bread Pakora,"stuffed bread pakora,aloo bread pakoda",Snacks,278.8,5.2,33.0,14.0,2.2,120.0,IFCT 2017 / ICMR-NIN,"Triangles of bread stuffed with spiced mashed potato, dipped in spiced besan batter and deep-fried"
+IF109,Kachori,"khasta kachori,pyaaz kachori,dal kachori",Snacks,374.0,6.5,42.0,20.0,3.2,80.0,IFCT 2017 / ICMR-NIN,Flaky and crisp deep-fried puffed pastry filled with spiced lentils or sauteed onions
+IF110,Sabudana Khichdi,"tapioca pearl pilaf,sago khichdi",Breakfast,215.8,3.2,39.5,5.0,1.5,150.0,IFCT 2017 / ICMR-NIN,"Fasting pilaf of soaked tapioca pearls, roasted crushed peanuts, green chilies and boiled potatoes"
+IF111,Sabudana Vada,"sago cutlet,tapioca patties",Snacks,288.8,4.5,38.0,13.2,2.0,80.0,IFCT 2017 / ICMR-NIN,"Crispy deep-fried golden patties of sago, mashed potato, peanuts, and cumin"
+IF112,Methi Thepla,"fenugreek thepla,spiced methi roti",Breakfast,288.0,7.5,42.0,10.0,5.5,40.0,IFCT 2017 / ICMR-NIN,Travel-friendly spiced flatbread incorporating fresh chopped fenugreek leaves
+IF113,Vermicelli Upma,"seviyan upma,semiya upma",Breakfast,151.4,3.8,25.5,3.8,1.8,150.0,IFCT 2017 / ICMR-NIN,"Savory roasted vermicelli strands tempered with mustard, curry leaves, and crunchy peanuts"
+IF114,Kaju Katli,"kaju barfi,cashew fudge",Sweets,440.7,9.8,52.0,21.5,1.5,30.0,IFCT 2017 / ICMR-NIN,Diamond-shaped rich melt-in-mouth confection made from ground cashews and sugar syrup
+IF115,Besan Laddu,"besan ladoo,gram flour sweet ball",Sweets,479.0,8.5,55.0,25.0,3.0,40.0,IFCT 2017 / ICMR-NIN,"Aromatic round sweet confections rolled from slow-roasted chickpea flour, ghee, sugar, and cardamom"
+IF116,Motichoor Laddu,"motichur ladoo,boondi ladoo",Sweets,420.2,4.8,62.0,17.0,1.0,45.0,IFCT 2017 / ICMR-NIN,Tender round balls made of tiny fried gram flour pearls soaked in saffron sugar syrup
+IF117,Gajar Ka Halwa,"carrot halwa,gajrela",Sweets,260.8,4.2,34.0,12.0,2.5,100.0,IFCT 2017 / ICMR-NIN,"Pudding of grated red carrots simmered in full-fat milk, khoya, ghee, sugar, and cardamoms"
+IF118,Rasmalai,"rossomalai,ras malai",Sweets,208.0,6.8,24.5,9.2,0.2,80.0,IFCT 2017 / ICMR-NIN,Soft flattened chenna patties soaked in thick chilled saffron and cardamom flavored clotted milk
+IF119,Mysore Pak,"ghee mysore pak,mysorepa",Sweets,516.5,6.0,50.0,32.5,1.5,40.0,IFCT 2017 / ICMR-NIN,"Traditional porous melt-in-the-mouth Karnataka fudge made of generous pure ghee, sugar, and besan"
+IF120,Soan Papdi,"patisa,san papri",Sweets,491.3,5.2,58.0,26.5,1.8,40.0,IFCT 2017 / ICMR-NIN,"Flaky, multi-layered crisp sweet confection made from gram flour, wheat flour, ghee, and pistachios"
+IF121,Filter Coffee,"kaapi,south indian filter coffee,madras coffee",Beverages,75.2,2.5,10.0,2.8,0.1,150.0,IFCT 2017 / ICMR-NIN,Frothy South Indian coffee brewed from chicory-blended decoction and frothed hot milk
+IF122,Badam Milk,"almond milk drink,badam doodh",Beverages,123.6,4.2,15.0,5.2,0.8,200.0,IFCT 2017 / ICMR-NIN,"Rich warm milk drink flavored with ground almond paste, saffron strands, and cardamom"
+IF123,Salted Lassi,"namkeen lassi,savory lassi",Beverages,44.4,2.8,3.8,2.0,0.0,250.0,IFCT 2017 / ICMR-NIN,Refreshing salted churned yogurt drink spiced with roasted cumin powder and black salt
+IF124,Nimbu Pani,"shikanji,lemonade,nimbu sharbat",Beverages,35.7,0.2,8.5,0.1,0.1,250.0,IFCT 2017 / ICMR-NIN,Refreshing Indian lemonade spiced with roasted cumin and rock salt
+IF125,Boondi Raita,"kara boondi raita,spiced boondi yogurt",Dairy,95.2,3.5,9.5,4.8,0.5,100.0,IFCT 2017 / ICMR-NIN,"Cooling whisked curd mixed with crisp fried chickpea boondi, cumin, and chili powder"
+GL_EGG_001,Plain Omelette,"omelet,omelette,plain omelette,egg omelette,plain egg omelette,french omelette,fried eggs beaten",Eggs,154.0,10.6,0.6,12.0,0.0,120.0,USDA FoodData Central,Beaten whole eggs cooked in a pan with butter or light oil
+GL_EGG_002,Cheese Omelette,"cheese omelet,cheesy omelette,egg and cheese omelette",Eggs,182.0,12.4,1.2,14.2,0.0,135.0,USDA FoodData Central,Egg omelette folded over melted cheddar or processed cheese
+GL_EGG_003,Masala Omelette,"indian omelette,spicy omelette,desi omelette,onion chili omelette",Eggs,160.0,10.2,2.2,12.3,0.5,130.0,IFCT 2017 / ICMR-NIN,"Eggs whisked with finely chopped onions, green chilies, coriander, and turmeric"
+GL_EGG_004,Boiled Egg,"hard boiled egg,soft boiled egg,boiled eggs,boiled whole egg",Eggs,155.0,12.6,1.1,10.6,0.0,50.0,USDA FoodData Central,"Hard-boiled chicken egg in shell, peeled"
+GL_EGG_005,Scrambled Eggs,"scrambled egg,scramble eggs,butter scrambled eggs",Eggs,149.0,10.0,1.6,11.0,0.0,120.0,USDA FoodData Central,"Eggs beaten with a touch of milk, gently cooked in butter"
+GL_EGG_006,Fried Egg,"sunny side up,egg fry,half fry,fried eggs,bullseye egg",Eggs,196.0,13.6,0.8,15.3,0.0,46.0,USDA FoodData Central,Egg fried in oil or butter sunny-side up or over easy
+GL_MET_001,Grilled Chicken Breast,"chicken breast,grilled chicken,roast chicken breast,baked chicken breast",Meat,165.0,31.0,0.0,3.6,0.0,150.0,USDA FoodData Central,"Skinless, boneless chicken breast cooked on grill"
+GL_MET_002,Grilled Salmon,"salmon fillet,baked salmon,pan seared salmon,salmon fish",Seafood,206.0,22.1,0.0,12.3,0.0,150.0,USDA FoodData Central,Atlantic salmon fillet cooked without added fat
+GL_FST_001,Margherita Pizza Slice,"cheese pizza,pizza slice,pizza,margherita pizza",Fast Food,266.0,11.4,33.3,9.8,2.3,107.0,USDA FoodData Central,"Classic crust pizza with tomato sauce, mozzarella cheese"
+GL_FST_002,French Fries,"fries,finger chips,potato fries,hot chips",Fast Food,312.0,3.4,41.4,15.0,3.8,117.0,USDA FoodData Central,"Deep-fried potato strips, salted"
+GL_FST_003,Cheeseburger,"burger,cheese burger,beef burger,hamburger with cheese",Fast Food,263.0,13.5,23.8,12.5,1.2,150.0,USDA FoodData Central,Ground patty on bun with slice of cheese and condiments
+GL_FST_004,Pasta Marinara,"pasta with red sauce,spaghetti marinara,tomato pasta,penne arrabbiata",Grains,131.0,5.0,22.0,2.5,1.8,200.0,USDA FoodData Central,Boiled semolina pasta tossed in seasoned tomato and herb sauce
+GL_FRU_001,Apple,"red apple,fresh apple,green apple,seb",Fruits,52.0,0.3,13.8,0.2,2.4,182.0,USDA FoodData Central,Raw apple with skin
+GL_FRU_002,Banana,"ripe banana,yellow banana,kela",Fruits,89.0,1.1,22.8,0.3,2.6,118.0,USDA FoodData Central,"Raw ripe banana, peeled"
+GL_VEG_001,Steamed Broccoli,"boiled broccoli,cooked broccoli,broccoli florets",Vegetables,42.0,2.4,7.2,0.4,3.3,150.0,USDA FoodData Central,"Cooked, boiled, drained without salt"
+GL_ASN_001,Vegetable Fried Rice,"fried rice,veg fried rice,chinese fried rice",Rice Dishes,163.0,3.5,27.5,4.5,1.5,200.0,USDA FoodData Central,Wok-fried rice with diced vegetables and soy sauce
+GL_MID_001,Hummus Dip,"hummus,hommus,chickpea dip",Condiments,166.0,7.9,14.3,9.6,6.0,50.0,USDA FoodData Central,"Pureed chickpeas, tahini, olive oil, lemon juice and garlic"
