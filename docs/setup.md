@@ -14,9 +14,11 @@ This guide walks you through setting up and running DietAI24 on your machine (Wi
 
 ## 1. Backend Setup
 
-### Navigate to the repository
+### Project Directory
+Ensure you are in the root project folder:
 ```bash
-cd indian-food-calorie-estimator
+# Verify you are in the project folder
+pwd
 ```
 
 ### Install Backend Dependencies
