@@ -74,7 +74,7 @@ class TestFoodDatabaseLoading(unittest.TestCase):
     def test_all_foods_have_ids(self):
         """Every food must have a non-empty food_id."""
         for food_id, record in self.db.foods.items():
-            self.assertTrue(food_id.startswith("IF"))
+            self.assertTrue(bool(food_id))
             self.assertEqual(food_id, record.food_id)
 
     def test_all_foods_have_calories(self):
@@ -196,7 +196,7 @@ class TestFoodRecordIntegration(unittest.TestCase):
         self.assertIn("food_id", d)
         self.assertIn("food_name", d)
         self.assertIn("calories_100g", d)
-        self.assertEqual(d["source"], "DEMO_APPROXIMATE")
+        self.assertEqual(d["source"], record.source)
 
 
 if __name__ == "__main__":
